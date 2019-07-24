@@ -3,7 +3,7 @@ import OrgChart from '../js/orgchart-webcomponents.min.js';
 document.addEventListener('DOMContentLoaded', function () {
 
   Mock.mock('/orgchart/initdata', {
-      'name': 'Lao Lao',
+      'name': 'Alex Alex',
       'title': 'general manager',
       'children': [
         { 'name': 'Bo Miao', 'title': 'department manager' },
